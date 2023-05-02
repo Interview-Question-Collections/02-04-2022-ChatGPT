@@ -72,9 +72,6 @@ You have a Kubernetes deployment that includes multiple namespaces and service a
 These questions are more advanced and require a deeper understanding of Kubernetes concepts and best practices. They cover topics such as high availability, security, performance optimization, troubleshooting, and design considerations for complex systems. Answering these questions requires a strong understanding of Kubernetes architecture and functionality, as well as experience in deploying and managing complex applications on Kubernetes.
 
 
-
-
-
 User
 Usually what is day to day activity of K8s Admin, Which type of issues he gonna face, and how he gonna troubleshoot them 
 ChatGPT
